@@ -24,6 +24,6 @@
 
 📫 **Let’s Connect:**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vinoth-marimuthu-qa-engineer/)  
-- 📧 vinothmarimuthu1805@gmail.com  
+- 📧 vinothm0591@gmail.com  
 
 ⭐ **Explore my repositories to see examples of my test automation frameworks, API testing scripts, and CI/CD configurations. I’m always open to collaboration and innovation!**
