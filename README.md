@@ -1,5 +1,5 @@
 👋 **Hi, I'm Vinoth Marimuthu!**  
-💻 **full Stack QA Engineer | Automation Tester | Quality Advocate**  
+💻 **Full Stack QA Engineer | Automation Tester | Quality Advocate**  
 
 🔍 **About Me:**  
 - 🎯 Over 10 years of professional experience in software testing, specializing in manual and automated testing, API testing, and security testing.  
