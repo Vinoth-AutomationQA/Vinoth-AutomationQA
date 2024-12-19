@@ -4,9 +4,9 @@
 🔍 **About Me:**  
 - 🎯 Over 10 years of professional experience in software testing, specializing in manual and automated testing, API testing, and security testing.  
 - 📱 Skilled in mobile application testing using both virtual and physical devices for optimal performance and coverage.  
-- 🛠️ Proficient in Selenium, TestNG, Cucumber, Jenkins, Postman, and SOAPUI for building robust test frameworks.  
+- 🛠️ Proficient in Selenium, TestNG, Cucumber, Jenkins, Postman, and RestAssured for building robust test frameworks.  
 - 🧪 Expertise in Behavior-Driven Development (BDD) frameworks and integrating test automation into CI/CD pipelines for seamless delivery.  
-- 🌐 Hands-on experience in cross-browser compatibility testing, security testing using OWASP ZAP, Burp Suite, and Data Visor.  
+- 🌐 Hands-on experience in cross-browser compatibility testing, security testing using OWASP ZAP, Burp Suite, and Performance testing using Jmeter.  
 - 👥 Adept at leading cross-functional teams, training team members, and ensuring compliance with data security and regulatory policies.
 
 📂 **Key Skills and Expertise:**  
