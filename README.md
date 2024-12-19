@@ -13,8 +13,9 @@
 - **Test Automation**: Selenium, Cypress, Playwright, TestNG, Cucumber, Jenkins
 - **Programming Languages**: Java, Python, JavaScript, TypeScript
 - **API Testing**: Postman, SOAPUI, RestAssured, Swagger UI  
-- **Security Testing**: OWASP ZAP, Burp Suite, Data Visor, NMap  
-- **Testing Methodologies**: Smoke Testing, Sanity Testing, Regression Testing, Performance testing, ETL Testing, Penetration Testing  
+- **Security Testing**: OWASP ZAP, Burp Suite, Data Visor, NMap
+- **Performance testing**: JMeter and Blazemeter
+- **Testing Methodologies**: Smoke Testing, Sanity Testing, Regression Testing, ETL Testing, Penetration Testing  
 - **Defect Management**: JIRA, Mantis, Bugzilla, IBM Rational Quest  
 - **Frameworks**: BDD Frameworks and Specflow
 
