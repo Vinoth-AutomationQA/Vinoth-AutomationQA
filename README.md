@@ -52,8 +52,7 @@ I am a dedicated QA professional with over 10 years of experience in software te
 ### 🌐 **Certifications & Continuous Learning**  
 - **ISTQB Certified Tester**  
 - **Certified Selenium Professional**  
-- **Certified in Advanced Test Automation Frameworks**  
-- Actively contributing to open-source QA projects, including enhancements to Selenium and Postman.
+- **Actively contributing to open-source QA projects, including enhancements to Selenium and Postman**
 
 ---
 
@@ -74,15 +73,11 @@ I am a dedicated QA professional with over 10 years of experience in software te
 - **Features**: Appium-based automation for hybrid and native apps.  
 - **Technologies**: Appium, Selenium, Python.  
 
-#### **5. Security and Performance Testing Tools**  
-- **Features**: Automated security scanning and performance benchmarking.  
-- **Technologies**: OWASP ZAP, JMeter, Burp Suite.  
-
 ---
 
 ### 📫 **Let’s Connect**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinoth-marimuthu-qa-engineer/)  
-- 📧 vinothmarimuthu1805@gmail.com  
+- 📧 vinothm0591@gmail.com  
 
 ---
 
