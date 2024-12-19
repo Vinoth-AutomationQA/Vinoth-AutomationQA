@@ -10,17 +10,18 @@
 - 👥 Adept at leading cross-functional teams, training team members, and ensuring compliance with data security and regulatory policies.
 
 📂 **Key Skills and Expertise:**  
-- **Test Automation**: Selenium, TestNG, Cucumber, Jenkins  
-- **API Testing**: Postman, SOAPUI, RestAssured  
-- **Security Testing**: OWASP ZAP, Burp Suite, Data Visor  
-- **Testing Methodologies**: Smoke Testing, Sanity Testing, Regression Testing, Penetration Testing  
-- **Defect Management**: JIRA, Mantis, IBM Rational Quest  
-- **Frameworks**: BDD Frameworks and Custom Automation Solutions  
+- **Test Automation**: Selenium, Cypress, Playwright, TestNG, Cucumber, Jenkins
+- **Programming Languages**: Java, Python, JavaScript, TypeScript
+- **API Testing**: Postman, SOAPUI, RestAssured, Swagger UI  
+- **Security Testing**: OWASP ZAP, Burp Suite, Data Visor, NMap  
+- **Testing Methodologies**: Smoke Testing, Sanity Testing, Regression Testing, Performance testing, ETL Testing, Penetration Testing  
+- **Defect Management**: JIRA, Mantis, Bugzilla, IBM Rational Quest  
+- **Frameworks**: BDD Frameworks and Specflow
 
 🏆 **Certifications and Achievements:**  
 - ISTQB Certified  
 - Developed automated frameworks that improved test efficiency and reduced execution time.  
-- Successfully led critical projects in Retail Banking, Airline Reservations, and Healthcare sectors.
+- Successfully led critical projects in BFSI, Airline Reservations,  and Healthcare sectors.
 
 📫 **Let’s Connect:**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vinoth-marimuthu-qa-engineer/)  
